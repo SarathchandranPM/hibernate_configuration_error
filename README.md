@@ -1,0 +1,1 @@
+# hibernate_configuration_error
